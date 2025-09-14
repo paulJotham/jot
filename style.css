@@ -1,0 +1,7 @@
+body { background: #1c1c1c; color: #e6eef7; font-family: Arial, sans-serif; }
+h1 { text-align: center; color: #00d09c; }
+#aiThinking, #selectedMatches { margin: 20px; padding: 10px; background: #2a2a2a; border-radius: 10px; }
+.match-item { padding: 10px; margin: 5px 0; border: 1px solid #444; border-radius: 5px; display: flex; justify-content: space-between; }
+.confidence-high { color: #00ff00; }
+.confidence-medium { color: #ffff00; }
+.confidence-low { color: #ff0000; }
