@@ -1,0 +1,23 @@
+[
+    {
+        "match": "Man City vs Arsenal",
+        "league": "Premier League",
+        "betType": "Home Win",
+        "confidence": 92,
+        "odds": 1.85
+    },
+    {
+        "match": "Barcelona vs Real Madrid",
+        "league": "La Liga",
+        "betType": "Over 1.5",
+        "confidence": 88,
+        "odds": 2.1
+    },
+    {
+        "match": "PSG vs Marseille",
+        "league": "Ligue 1",
+        "betType": "Both Teams To Score",
+        "confidence": 81,
+        "odds": 1.95
+    }
+]
